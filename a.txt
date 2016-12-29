@@ -1,9 +1,2 @@
 1st line in a.txt
-2nd line in a.txt
-3rd line added in sample
-3rd line added in sample2
-4th line sample
-5th line sample
-5th line sample2
-6th line by sample
-6th line by sample2
+7th line by sample
