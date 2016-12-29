@@ -1,0 +1,8 @@
+Release/
+Debug/
+ipch/
+.svn/
+*.suo
+*.sdf
+*.obj
+*.pdb
