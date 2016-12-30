@@ -3,3 +3,4 @@
 7th line by sample
 8th line by my_branch01 (sample)
 8th line by sample/master
+9th line by my_branch02
