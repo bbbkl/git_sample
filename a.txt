@@ -1,2 +1,3 @@
 1st line in a.txt
 7th line by sample
+8th line by sample/master
